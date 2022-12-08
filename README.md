@@ -12,7 +12,8 @@ I use JavaScript and my graphic design skills to create unique and personalized 
 ```javascript
   const miguel = {
     code: ['javascript', 'ReactJS', 'HTML', 'CSS'],
-    tools: ['NodeJs', 'Azure', 'PostgreSQL']
+    tools: ['NodeJs', 'Azure', 'PostgreSQL'],
+    practicing: ['React Native', 'Java']
   }
 ```
 
