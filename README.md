@@ -13,7 +13,7 @@ I use JavaScript and my graphic design skills to create unique and personalized 
   const miguel = {
     code: ['javascript', 'ReactJS', 'HTML', 'CSS'],
     tools: ['NodeJs', 'Azure', 'PostgreSQL'],
-    practicing: ['React Native', 'Java']
+    practicing: ['React Native', 'Java', 'C++']
   }
 ```
 
