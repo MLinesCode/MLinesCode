@@ -11,9 +11,9 @@ I use JavaScript and my graphic design skills to create unique and personalized 
 
 ```javascript
   const miguel = {
-    code: ['javascript', 'ReactJS', 'HTML', 'CSS'],
-    tools: ['NodeJs', 'Azure', 'PostgreSQL'],
-    practicing: ['React Native', 'Java', 'C++']
+    code: ['javascript', 'ReactJS', 'HTML', 'CSS', 'Angular 8 -> 12'],
+    tools: ['NodeJs', 'Azure', 'PostgreSQL', 'MySQL'],
+    practicing: ['React Native', 'Java', 'C#', 'AWS']
   }
 ```
 
