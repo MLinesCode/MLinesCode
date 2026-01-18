@@ -16,7 +16,7 @@
 
 ## 🚀 Currently
 
-- 🏢 Senior Full Stack Developer @ **NTT DATA México**
+- 🏢 Senior Frontend Developer @ **NTT DATA México**
 - 💼 Building enterprise integration systems for major telecommunications operators
 - 🔨 Crafting modern web experiences with React + TypeScript
 - 🐳 Deploying production apps with Docker + Dokploy
