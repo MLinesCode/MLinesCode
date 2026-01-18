@@ -1,4 +1,4 @@
-# ¡Hola! 👋 I'm Miguel
+# ¡Hi! 👋 I'm Miguel
 
 <div align="center">
   
