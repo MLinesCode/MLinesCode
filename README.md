@@ -62,7 +62,7 @@ const miguel = {
 
 ## 💡 What I Bring to the Table
 
-- 🔧 **4+ years** mastering enterprise integration with IBM ACE & MQ
+- 🔧 **2+ years** mastering enterprise integration with IBM ACE & MQ
 - 🌉 Bridging legacy SOAP systems with modern REST architectures
 - 🎨 Design background = developer with genuine UX mindset
 - 🌍 Seamless bilingual communication (ES/EN)
