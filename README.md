@@ -6,6 +6,7 @@
 -->
  
 <div align="center">
+  
 # ¡Hola! 👋 Soy Miguel
  
 ### Software Engineer II · Enterprise Integration + Creative Web
